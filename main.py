@@ -1,3 +1,2 @@
-print("Hello, World!")
-
-print("World, Hello!")
+def func():
+    return ("hello world")
